@@ -2,4 +2,4 @@
 
 This plugin show Server Information Message periodically.
 
-Provided by BFJC(Battlefield Japan Community)
+*Provided by BFJC(Battlefield Japan Community)*
